@@ -12,12 +12,12 @@ A simple Python keylogger that records keystrokes and saves them in a file. This
 ### 1️⃣ Install Dependencies  
 Make sure you have Python installed, then install the required package:  
 ```bash
-pip install pynput
+apt install python-pynput
 python3 key.py
 ```
 
 ## 📌 Requirements
-- Python 3+
+- Python 3
 - pynput library
 
 ⚠ Disclaimer
